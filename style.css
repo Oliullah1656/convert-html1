@@ -1,0 +1,46 @@
+#login-section{
+    background:url(./pic2.jpg)no-repeat;
+    background-size: cover;
+    height: 670px;
+}
+
+.overly{
+    background: rgba(0,0,0,0.8);
+    height: 670px;
+}
+.my-class .navbar{
+    background: transparent !important;
+
+    border-bottom: 3px solid red;
+    
+}
+.my-class .navbar a{
+
+    color: black !important;
+}
+.my-class .navbar .navbar-brand{
+    color: royalblue;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+.my-class .navbar .navbar-brand span{
+    color:red;
+    font-size: 25px;
+
+}
+input{
+    background: transparent !important;
+}
+
+.skill-section .color{
+    background: pink !important;
+}
+.skill-section img{
+    width: 100%;
+}
+
+#contract .color{
+    background: black;
+    color: blue;
+}
